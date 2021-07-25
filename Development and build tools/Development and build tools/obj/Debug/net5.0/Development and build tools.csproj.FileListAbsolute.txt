@@ -1,0 +1,16 @@
+D:\VS_AQA\Automated-Testing-Foundations-with-.NET\Development and build tools\Development and build tools\bin\Debug\net5.0\Development and build tools.exe
+D:\VS_AQA\Automated-Testing-Foundations-with-.NET\Development and build tools\Development and build tools\bin\Debug\net5.0\Development and build tools.deps.json
+D:\VS_AQA\Automated-Testing-Foundations-with-.NET\Development and build tools\Development and build tools\bin\Debug\net5.0\Development and build tools.runtimeconfig.json
+D:\VS_AQA\Automated-Testing-Foundations-with-.NET\Development and build tools\Development and build tools\bin\Debug\net5.0\Development and build tools.runtimeconfig.dev.json
+D:\VS_AQA\Automated-Testing-Foundations-with-.NET\Development and build tools\Development and build tools\bin\Debug\net5.0\Development and build tools.dll
+D:\VS_AQA\Automated-Testing-Foundations-with-.NET\Development and build tools\Development and build tools\bin\Debug\net5.0\ref\Development and build tools.dll
+D:\VS_AQA\Automated-Testing-Foundations-with-.NET\Development and build tools\Development and build tools\bin\Debug\net5.0\Development and build tools.pdb
+D:\VS_AQA\Automated-Testing-Foundations-with-.NET\Development and build tools\Development and build tools\obj\Debug\net5.0\Development and build tools.csproj.AssemblyReference.cache
+D:\VS_AQA\Automated-Testing-Foundations-with-.NET\Development and build tools\Development and build tools\obj\Debug\net5.0\Development and build tools.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS_AQA\Automated-Testing-Foundations-with-.NET\Development and build tools\Development and build tools\obj\Debug\net5.0\Development and build tools.AssemblyInfoInputs.cache
+D:\VS_AQA\Automated-Testing-Foundations-with-.NET\Development and build tools\Development and build tools\obj\Debug\net5.0\Development and build tools.AssemblyInfo.cs
+D:\VS_AQA\Automated-Testing-Foundations-with-.NET\Development and build tools\Development and build tools\obj\Debug\net5.0\Development and build tools.csproj.CoreCompileInputs.cache
+D:\VS_AQA\Automated-Testing-Foundations-with-.NET\Development and build tools\Development and build tools\obj\Debug\net5.0\Development and build tools.dll
+D:\VS_AQA\Automated-Testing-Foundations-with-.NET\Development and build tools\Development and build tools\obj\Debug\net5.0\ref\Development and build tools.dll
+D:\VS_AQA\Automated-Testing-Foundations-with-.NET\Development and build tools\Development and build tools\obj\Debug\net5.0\Development and build tools.pdb
+D:\VS_AQA\Automated-Testing-Foundations-with-.NET\Development and build tools\Development and build tools\obj\Debug\net5.0\Development and build tools.genruntimeconfig.cache

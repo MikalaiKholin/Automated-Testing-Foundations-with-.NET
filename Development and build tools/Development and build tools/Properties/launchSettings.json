@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Development and build tools": {
+      "commandName": "Project",
+      "commandLineArgs": "123456ll123ll123456ll123"
+    }
+  }
+}
